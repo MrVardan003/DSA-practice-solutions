@@ -1,0 +1,1 @@
+Implements Breadth-First Search (BFS) to traverse a graph starting from a given root vertex.

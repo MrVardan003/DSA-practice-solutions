@@ -1,0 +1,1 @@
+This program calculates the shortest path from a source vertex to all other vertices in a graph using Dijkstra's algorithm.

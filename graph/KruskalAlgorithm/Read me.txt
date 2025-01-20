@@ -1,0 +1,1 @@
+This program implements Kruskal's algorithm to find the Minimum Spanning Tree (MST) of a graph using the union-find data structure.

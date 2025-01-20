@@ -1,0 +1,1 @@
+Finds the first triangular number with more than 'n' divisors, where 'n' is provided as input.

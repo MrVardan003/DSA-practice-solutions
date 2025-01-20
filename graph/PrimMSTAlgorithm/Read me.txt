@@ -1,0 +1,1 @@
+This program implements Prim's algorithm to find the Minimum Spanning Tree (MST) of a graph using a priority queue for efficient key updates.
