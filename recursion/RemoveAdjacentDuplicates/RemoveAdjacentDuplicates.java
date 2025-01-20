@@ -1,4 +1,4 @@
-class RemoveDupli {
+class RemoveAdjacentDuplicates {
 
     static char last_removed; 
     static String removeUtil(String str)

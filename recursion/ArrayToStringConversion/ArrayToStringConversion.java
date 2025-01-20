@@ -1,5 +1,4 @@
-// Print all possible combinations of r elements in a given array of size n using recursion
-public class combinations {
+public class ArrayToStringConversion {
 
     public static String[] operations(int[] arr, int n) {
         String[] str = new String[n];

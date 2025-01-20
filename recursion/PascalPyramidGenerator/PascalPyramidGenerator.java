@@ -1,4 +1,4 @@
-public class pascalPyramid {
+public class PascalPyramidGenerator {
     public static void main(String args[]) {
         int n=7;
         int l=2*n-1;

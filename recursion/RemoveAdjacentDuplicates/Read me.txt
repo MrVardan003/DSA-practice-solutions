@@ -1,0 +1,2 @@
+A Java program to remove all adjacent duplicate characters in a string recursively.
+

@@ -1,0 +1,2 @@
+A Java program to generate a Pascal's Pyramid (a visual representation of Pascal's Triangle) with a specified number of rows.
+
